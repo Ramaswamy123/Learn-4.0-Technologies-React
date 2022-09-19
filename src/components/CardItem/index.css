@@ -1,0 +1,58 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  width: 300px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  width: 300px;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  width: 300px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  width: 300px;
+}
+.card {
+  list-style-type: none;
+  background-color: white;
+  /* width: 500px; */
+  border-radius: 10px;
+  margin: 10px;
+}
+.heading {
+  color: #171f46;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.paragraph {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.card-heading {
+  color: #171f46;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.card-para {
+  color: #64748b;
+  font-size: 10px;
+  font-family: 'Roboto';
+}
+.image {
+  height: 50px;
+  width: 50px;
+  align-self: flex-end;
+}
+.card-details {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
